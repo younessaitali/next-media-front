@@ -1,4 +1,5 @@
 // jshint esversion:6
+/* eslint-disable */
 
 import axios from "axios";
 
